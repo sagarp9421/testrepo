@@ -2,3 +2,6 @@ Hi This is my first git hub document.
 
 
 this is the second commit.
+
+
+this is the 3rd commit
